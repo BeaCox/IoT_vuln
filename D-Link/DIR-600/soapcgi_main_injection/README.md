@@ -56,3 +56,7 @@ PoC effect screenshot:
 ![1](img/demo.png)
 
 The Proof-of-Concept video is in the demo folder.
+
+## CVE
+
+CVE-2024-7357
