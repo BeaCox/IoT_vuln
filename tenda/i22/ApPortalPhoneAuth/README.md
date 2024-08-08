@@ -34,3 +34,7 @@ print(response.text)
 ```
 
 ![demo](image/demo.png)
+
+## CVE
+
+CVE-2024-7584
