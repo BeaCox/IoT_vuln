@@ -39,3 +39,7 @@ ret = requests.post(url,data=data)
 Here is a screenshot of a stack overflow being successfully exploited:
 
 ![demo](image/demo.png)
+
+## CVE
+
+CVE-2024-7613

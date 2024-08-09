@@ -41,3 +41,7 @@ ret = requests.post(url,data=data)
 ```
 
 ![demo](image/demo.png)
+
+## CVE
+
+CVE-2024-7614

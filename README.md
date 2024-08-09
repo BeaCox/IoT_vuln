@@ -13,3 +13,6 @@ Some IoT device vulnerabilities I've found while learning.
 + CVE-2024-7583
 + CVE-2024-7584
 + CVE-2024-7585
++ CVE-2024-7613
++ CVE-2024-7614
++ CVE-2024-7615
