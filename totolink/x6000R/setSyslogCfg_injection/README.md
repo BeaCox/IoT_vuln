@@ -37,6 +37,6 @@ print(response.text)
 print(response)
 ```
 
-Here is a screenshot of command injection:
+## CVE
 
-![demo](image/demo.png)
+CVE-2024-7907
