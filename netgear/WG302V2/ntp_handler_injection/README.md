@@ -4,8 +4,8 @@
 
 + Product: [WG302v2](https://www.netgear.com/support/product/wg302v2#download), [WAG302v2](https://www.netgear.com/support/product/wag302v2#download)
 + Firmware download:
-  + [WG302v2 5.2.9](https://www.downloads.netgear.com/files/GDC/WG302V2/WG302v2 Firmware Version 5.2.9.zip)
-  + [WAG302v2 5.1.19](https://www.downloads.netgear.com/files/GDC/WAG302V2/WAG302v2 Firmware Version 5.1.19 (North America).zip)
+  + [WG302v2 5.2.9](https://www.downloads.netgear.com/files/GDC/WG302V2/WG302v2%20Firmware%20Version%205.2.9.zip)
+  + [WAG302v2 5.1.19](https://www.downloads.netgear.com/files/GDC/WAG302V2/WAG302v2%20Firmware%20Version%205.1.19%20(North%20America).zip)
 
 ## Affected version
 
