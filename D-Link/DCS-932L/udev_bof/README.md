@@ -22,4 +22,4 @@ Then, in `/sbin/udev` 's `SubUPnPCSInit` function, get the value of `CameraName`
 
 ## CVE
 
-not yet
+CVE-2025-4843

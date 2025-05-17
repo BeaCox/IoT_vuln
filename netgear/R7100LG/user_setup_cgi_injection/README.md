@@ -10,7 +10,7 @@ Netgear R7100LG [V1.0.0.78](https://www.downloads.netgear.com/files/GDC/R7100LG/
 
 ## Vulnerability details
 
-A command injection vulnerability exists in the `FUN_00079C24` function, which handles `user_setup.cgi`.
+A command injection vulnerability exists in the `FUN_00079C24` function of bianry `httpd`, which handles `user_setup.cgi`.
 
 The function receives the `TXT_remote_login` , `BTN_reg` and `TXT_remote_password` parameters from the user's request. When `BTN_reg` is `Register` , the `FUN_00077d70` function is called with `TXT_remote_login` and `TXT_remote_password` as its two parameters.
 

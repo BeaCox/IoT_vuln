@@ -22,4 +22,4 @@ Then, in `/bin/gpio` 's `sub_404780` function, get the value of `CameraName` fro
 
 ## CVE
 
-not yet
+CVE-2025-4841

@@ -13,7 +13,7 @@ WG302v2 5.2.9 & WG302v2 5.2.9 (other versions might be vulnerable)
 
 ## Vulnerability details
 
-In the WG302v2 5.2.9 & WG302v2 5.2.9 has a command injection vulnerability located in the `ntp_handler` function of file `ngadmin`. This function accepts the `time_zone` parameter, `customServerName` parameter and other parameters from a POST request. Both parameters may be spliced into the variable `s`, which is then passed to the system for execution.
+In the WG302v2 5.2.9 & WG302v2 5.2.9 has a command injection vulnerability located in the `ntp_handler` function of file `ngadmin.cgi`. This function accepts the `time_zone` parameter, `customServerName` parameter and other parameters from a POST request. Both parameters may be spliced into the variable `s`, which is then passed to the system for execution.
 
 ![image1](image/1.png)
 

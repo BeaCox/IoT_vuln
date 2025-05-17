@@ -22,4 +22,4 @@ Then, in `/sbin/ucp` 's `isUCPCameraNameChanged` function, get the value of `Cam
 
 ## CVE
 
-not yet
+CVE-2025-4842
